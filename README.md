@@ -1,4 +1,4 @@
-# Integrated-Electrocardiogram_ECG
+# 1-lead_ECG_to_12-lead
 
 ---
 
